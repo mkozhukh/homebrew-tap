@@ -1,6 +1,6 @@
 cask "clawd" do
-  version "0.1.0"
-  sha256 "5d2d9afd063d37bc8fca0dc8507fe3c64dc537e43cb9a2e22da875a51886a6db"
+  version "0.1.1"
+  sha256 "26118cea80bad7488ef7fd14e5d9f77f65c4c6fb7ca249c51cb78923eab15bad"
 
   url "https://github.com/mkozhukh/clawd-usage/releases/download/v#{version}/Clawd-#{version}.zip"
   name "Clawd"
